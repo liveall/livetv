@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://goo.gl/KuSp5E" group-title="FILMES",[COLOR orange](FILMES DE AÇÃO)[/COLOR]
+http://
+#EXTINF:-1 tvg-logo="https://goo.gl/OhgBKw" group-title="Filmes Legendados 2017",: XXX REATIVADO O Filme (Legendado) - 2017
+http://s.netcine.tv/netcine-bucket/filmes2016/GREATDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/XlohHs" group-title="Filmes Legendados 2017",: XXX REATIVADO O Filme (Legendado) - 2017
+http://s.netcine.tv/netcine-bucket/filmes2017/XXXLEG-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/L8PAvt" group-title="Filmes Legendados 2017",: KING KONG O Filme (Legendado) - 2017
+http://s.netcine.tv/netcine-bucket/filmes2017/KONGLEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/YT2Cc5" group-title="Filmes Legendados 2017",: LOGAN O Filme  - 2017
+http://s.netcine.tv/netcine-bucket/filmes2017/LOGANLEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/n8NXCl" group-title="Filmes Legendados 2017",Breaking Bad: O Filme (Legendado) - 2017
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BRKNGBDOFLMLEG.mp4
+#EXTINF:-1 tvg-logo="http://www.baixedetudo.net/imagens/resgate.suicida.jpg" group-title="Filmes 2017",Resgate Suicida 2017
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/RSGTSCD.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KKie6K" group-title="FILMES",RESIDENT EVIL 6: O CAPÍTULO FINAL LEG (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/REVIL06LEG.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/eEhovU" group-title="LANÇAMENTOS", PANDORA 2017
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/PNDRA.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/5OWkI8" group-title="FILMES",PASSAGEIROS DUB (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/PASGRIOS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/yom4e4" group-title="FILMES",O DIA DO ATENTADO LEG (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ODIDATNTDO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NWDlmte.jpg" group-title="FILMES",Stereo (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/STRO.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fE3uB5Q.jpg" group-title="FILMES",Esquadrao de Elite (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ESQDRDELT.mp4
